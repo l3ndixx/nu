@@ -1,0 +1,6 @@
+{
+  "name": "NUET Prep AI",
+  "description": "Interactive Nazarbayev University Entrance Test (NUET) preparation platform with adaptive analytics, timed mock exams, and a bilingual Gemini AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
